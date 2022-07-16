@@ -40,3 +40,4 @@ git push origin <nombre_tag>
 .-Contribuir en proyectos ajenos 
 Fork
 
+.-Probando add,commit y push desde gitKraken
