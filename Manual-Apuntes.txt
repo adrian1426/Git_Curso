@@ -28,7 +28,7 @@ git pull
 .-Ver tags
 git tag
 
-.-Tag, hacer una copia del repo y ya no puede ser modificado
+.-Tag, hacen una copia del repo y ya no puede ser modificado
 git tag -a <nombre_tag> -m "mensaje tag"
 
 .-Eliminar tag
