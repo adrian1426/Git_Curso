@@ -1,1 +1,10 @@
 --Apuntes de curso de Git
+
+.-Ver ramas:
+git branch
+
+.-Crear una rama:
+git checkout -b <nombre_rama>
+
+.-Moverse a otra rama:
+git checkout <nombre_rama>
