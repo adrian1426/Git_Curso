@@ -1,4 +1,4 @@
---Apuntes de curso de Git
+--Apuntes de curso de Git y git flow
 
 .-Ver ramas:
 git branch
@@ -39,5 +39,6 @@ git push origin <nombre_tag>
 
 .-Contribuir en proyectos ajenos 
 Fork
+
 
 cambio en feature/caracteristica1
