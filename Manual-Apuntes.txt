@@ -37,4 +37,6 @@ git tag -d <nombre_tag>
 .-Subir tag al repo remoto
 git push origin <nombre_tag>
 
+.-Contribuir en proyectos ajenos 
+Fork
 
