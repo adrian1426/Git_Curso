@@ -1,4 +1,4 @@
---Apuntes de curso de Git
+--Apuntes de curso de Git y git flow
 
 .-Ver ramas:
 git branch
