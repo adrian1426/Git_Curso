@@ -8,3 +8,7 @@ git checkout -b <nombre_rama>
 
 .-Moverse a una rama:
 git checkout <nombre_rama>
+
+.-Merge:
+moverse a la rama destino y ejecutar el siguiente comando.
+git merge <nombre_rama> (rama que se desea traer sus cambios)
