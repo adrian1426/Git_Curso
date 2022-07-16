@@ -13,3 +13,9 @@ git checkout <nombre_rama>
 moverse a la rama destino y ejecutar el siguiente comando.
 git merge <nombre_rama> (rama que se desea traer sus cambios)
 
+.-Borrar ramas:
+git branch -d <nombre_rama>
+
+.-Borrar ramas Forzado:
+git branch -D <nombre_rama>
+
