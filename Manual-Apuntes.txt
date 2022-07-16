@@ -31,4 +31,10 @@ git tag
 .-Tag, hacer una copia del repo y ya no puede ser modificado
 git tag -a <nombre_tag> -m "mensaje tag"
 
+.-Eliminar tag
+git tag -d <nombre_tag>
+
+.-Subir tag al repo remoto
+git push origin <nombre_tag>
+
 
