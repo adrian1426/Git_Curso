@@ -40,5 +40,7 @@ git push origin <nombre_tag>
 .-Contribuir en proyectos ajenos 
 Fork
 
+cambio en feature/caracteristica1
+.-Probando add,commit y push desde gitKraken
 
 cambio en feature/caracteristica1
