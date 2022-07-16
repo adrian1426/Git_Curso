@@ -19,3 +19,16 @@ git branch -d <nombre_rama>
 .-Borrar ramas Forzado:
 git branch -D <nombre_rama>
 
+.-Ver cambios disponibles en repositorio remoto
+git fetch
+
+.-Descargar o acatulizar el repositorio local
+git pull
+
+.-Ver tags
+git tag
+
+.-Tag, hacer una copia del repo y ya no puede ser modificado
+git tag -a <nombre_tag> -m "mensaje tag"
+
+
